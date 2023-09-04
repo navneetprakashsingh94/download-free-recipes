@@ -1,0 +1,24 @@
+---
+layout: post
+title: Edna Davis Paella
+date: 2023-05-28 09:15:20.632938
+last_modified_at: 2023-05-28 09:15:20.632938
+category: ['oil', 'onion', 'cloves', 'fennel seeds', 'cayenne pepper', 'saffron threads tbsp water', 'tiger prawns', 'hake boneless skinless chunks', 'liqueur Pernod', 'wine', 'tomatoes', 'stock', 'mussels', 'clams', 'salt ground pepper', 'baby squid triangles', 'baguette thick slices', 'egg yolks', 'cloves', 'cayenne pepper', 'saffron threads tbsp water', 'lemon juice', 'oz oil', 'Gruyere']
+tags: ['oil', 'onion', 'cloves', 'fennel', 'seeds', 'cayenne', 'pepper', 'saffron', 'threads', 'water', 'tiger', 'prawns', 'hake', 'boneless', 'skinless', 'chunks', 'liqueur', 'Pernod', 'wine', 'tomatoes', 'stock', 'mussels', 'clams', 'salt', 'ground', 'pepper', 'baby', 'squid', 'triangles', 'baguette', 'thick', 'slices', 'egg', 'yolks', 'cloves', 'cayenne', 'pepper', 'saffron', 'threads', 'water', 'lemon', 'juice', 'oz', 'oil', 'Gruyere']
+permalink: edna-davis-paella
+image: https://images.pexels.com/photos/12419160/pexels-photo-12419160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image2: https://images.pexels.com/photos/5039341/pexels-photo-5039341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+featured: false
+excerpt: Edna Davis Paella
+time_to_cook : 90
+---
+<h2>Raw Ingredients</h2>
+<a href="#" class="badge badge-light">Oil</a> <a href="#" class="badge badge-light">Onion</a> <a href="#" class="badge badge-light">Cloves</a> <a href="#" class="badge badge-light">Fennel Seeds</a> <a href="#" class="badge badge-light">Cayenne Pepper</a> <a href="#" class="badge badge-light">Saffron Threads Tbsp Water</a> <a href="#" class="badge badge-light">Tiger Prawns</a> <a href="#" class="badge badge-light">Hake Boneless Skinless Chunks</a> <a href="#" class="badge badge-light">Liqueur Pernod</a> <a href="#" class="badge badge-light">Wine</a> <a href="#" class="badge badge-light">Tomatoes</a> <a href="#" class="badge badge-light">Stock</a> <a href="#" class="badge badge-light">Mussels</a> <a href="#" class="badge badge-light">Clams</a> <a href="#" class="badge badge-light">Salt Ground Pepper</a> <a href="#" class="badge badge-light">Baby Squid Triangles</a> <a href="#" class="badge badge-light">Baguette Thick Slices</a> <a href="#" class="badge badge-light">Egg Yolks</a> <a href="#" class="badge badge-light">Cloves</a> <a href="#" class="badge badge-light">Cayenne Pepper</a> <a href="#" class="badge badge-light">Saffron Threads Tbsp Water</a> <a href="#" class="badge badge-light">Lemon Juice</a> <a href="#" class="badge badge-light">Oz Oil</a> <a href="#" class="badge badge-light">Gruyere</a> 
+
+<h2>Ingredients With Quantity </h2>
+<ul><li>3 Tbsp Olive Oil</li><li>1 Onion, Roughly Chopped</li><li>2 Garlic Cloves, Roughly Chopped</li><li>1 Tsp Fennel Seeds</li><li> 1/2 Tsp Cayenne Pepper</li><li> 1/2 Tsp Saffron Threads, Soaked In 1 Tbsp Hot Water</li><li>4 Shell-On Tiger Prawns, Roughly Chopped</li><li>400G/14Oz Hake, Boneless And Skinless, Cut Into Chunks</li><li>50Ml/2Fl Oz Anise-Flavoured Liqueur (Such As Pernod)</li><li>110Ml/4Fl Oz White Wine</li><li>1 X 400G/14Oz Tinned Tomatoes</li><li>500Ml/18Fl Oz Fish Stock</li><li>1Kg/2Lb 4Oz Mussels, Cleaned</li><li>1Kg/2Lb 4Oz Clams, Cleaned</li><li>Salt And Freshly Ground Black Pepper</li><li>4 Baby Squid, Cleaned And Cut Into Triangles</li><li>1 Baguette, Cut On The Diagonal Into 5Mm/ 1/4In Thick Slices</li><li>2 Free-Range Egg Yolks</li><li>2 Garlic Cloves, Crushed</li><li> 1/4 Tsp Cayenne Pepper</li><li> 1/2 Tsp Saffron Threads, Soaked In 1 Tbsp Hot Water</li><li> 1/4 Lemon, Juice Only</li><li>125Ml/4 1/2Fl Oz Light Olive Oil</li><li>200G/7Oz Gruyere, Finely Grated</li></ul>
+
+<h2>Directions</h2>
+<ul><li>Preheat the oven to 350f. </li><li>For the paella in a large skillet, heat the oil over medium heat. </li><li>Add the onion and cook, stirring often, for 5 minutes. </li><li>Add the cloves, fennel seeds, cayenne pepper, and saffron and cook, stirring for 1 minute. </li><li>Add the prawns, fish, and pernod. </li><li>Stir for 30 seconds. </li><li>Add the wine and cook until reduced by half. </li><li>Add the tomatoes and stock and bring to a boil. </li><li>Reduce the heat and simmer for 5 minutes. </li><li>Add the mussels, clams, salt and pepper and simmer for 5 minutes, or until the mussels and clams open. </li><li>Remove from the heat. </li><li>Place the baguette slices on a baking sheet, and top with a portion of the fish mixture, and sprinkle with the squid triangles. </li><li>Broil for 2 to 3 minutes, or until golden brown. </li><li>Set aside. </li><li>For the mayonnaise in a heavy bottomed saucepan, whisk the egg yolks, cloves, cayenne, saffron, and water until thick and lemon colored. </li><li>Gradually whisk in the</li></ul>
+
+<h3>Total time to cook 90 minutes</h3>
