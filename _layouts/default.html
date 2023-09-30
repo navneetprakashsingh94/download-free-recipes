@@ -8,6 +8,44 @@
 
 <title>{{ page.title }} | {{site.name}}</title>
 
+{% if page.layout == 'post' %}
+    <meta property="og:title" content="{{page.title}}" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content="{{ page.description }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <link rel="canonical" href="{{site.url}}{{page.permalink}}" />
+    <meta property="og:url" content="{{site.url}}{{page.permalink}}" />
+    <meta property="og:site_name" content="DownloadFreeRecipes.com" />
+    <meta property="og:image" content="{{ page.image }}" />
+    <meta property="og:type" content="Recipe" />
+    <meta property="article:published_time" content="{{ page.date }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="twitter:image" content="{{ page.image }}" />
+    <meta property="twitter:title" content="{{page.title}}" />
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org/",
+        "@type": "Recipe",
+        "name": "{{ page.title }}",
+        "image": "{{ page.image }}",
+        "author": {
+            "@type": "Person",
+            "name": "Chef Dan"
+        },
+        "datePublished": "{{ page.date }}",
+        "description": "{{ page.description }}",
+        "totalTime": "{{page.totalTimeIso}}",
+        "keywords": "{{page.keywords}}",
+        "recipeIngredient": ['{{page.category | join: "','"}}'],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "{{page.ratingValue}}",
+            "ratingCount": "{{page.ratingCount}}"
+        }
+        }
+    </script> 
+{% endif %}
+
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
 <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
@@ -15,6 +53,9 @@
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
 </head>
 

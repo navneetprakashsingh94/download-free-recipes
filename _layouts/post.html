@@ -157,26 +157,3 @@ post_class: post-template
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
-
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "{{ page.title }}",
-      "image": "{{ page.image }}",
-      "author": {
-        "@type": "Person",
-        "name": "Chef Dan"
-      },
-      "datePublished": "{{ page.date }}",
-      "description": "This coffee cake is awesome and perfect for parties.",
-      "totalTime": "{{page.time_to_cook}} min",
-      "keywords": "{{page.keywords}}",
-      "recipeIngredient": "{{page.ingredients}}",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "{{page.ratingValue}}",
-        "ratingCount": "{{page.ratingCount}}"
-      }
-    }
-</script>
