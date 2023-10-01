@@ -13,8 +13,8 @@
     <meta property="og:locale" content="en_US" />
     <meta name="description" content="{{ page.description }}" />
     <meta property="og:description" content="{{ page.description }}" />
-    <link rel="canonical" href="{{site.url}}{{page.permalink}}" />
-    <meta property="og:url" content="{{site.url}}{{page.permalink}}" />
+    <link rel="canonical" href="{{site.url}}/{{page.permalink}}" />
+    <meta property="og:url" content="{{site.url}}/{{page.permalink}}" />
     <meta property="og:site_name" content="DownloadFreeRecipes.com" />
     <meta property="og:image" content="{{ page.image }}" />
     <meta property="og:type" content="Recipe" />
@@ -36,7 +36,7 @@
         "description": "{{ page.description }}",
         "totalTime": "{{page.totalTimeIso}}",
         "keywords": "{{page.keywords}}",
-        "recipeIngredient": [{{page.category | join: ","}}],
+        "recipeIngredient": {{page.category | jsonify}},
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "{{page.ratingValue}}",
