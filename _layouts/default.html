@@ -36,7 +36,7 @@
         "description": "{{ page.description }}",
         "totalTime": "{{page.totalTimeIso}}",
         "keywords": "{{page.keywords}}",
-        "recipeIngredient": ['{{page.category | join: "','"}}'],
+        "recipeIngredient": [{{page.category | join: ","}}],
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "{{page.ratingValue}}",
