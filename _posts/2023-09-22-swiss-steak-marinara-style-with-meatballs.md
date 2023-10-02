@@ -6,7 +6,7 @@ last_modified_at: 2023-09-22 08:40:07.838679
 category: ["tomatoes", "pureed", "food", "processor", "tomato", "paste", "water", "salt", "ground", "pepper", "oil", "herbs", "pork", "bone", "meat", "rump", "steak", "thick", "slices", "bunch", "flatleaf", "parsley", "basil", "breadcrumbs", "garlic", "parmesan", "oranges", "virgin", "vinegar", "handful", "leaves"]
 tags: ['tomatoes pureed food processor', 'tomato paste', 'water', 'salt', 'ground pepper', 'oil', 'tbsp herbs', 'pork bone meat', 'tsp salt', 'rump steak thick slices', 'bunch flatleaf parsley', 'bunch basil', 'breadcrumbs', 'garlic', 'parmesan', 'oranges', 'virgin oil', 'vinegar', 'handful leaves']
 permalink: swiss-steak-marinara-style-with-meatballs
-image: https://images.pexels.com/photos/4311057/pexels-photo-4311057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: https://images.pexels.com/photos/4311057/pexels-photo-4311057.jpeg?auto=compress&cs=tinysrgb&h=650&w=650
 image2: https://images.pexels.com/photos/4311062/pexels-photo-4311062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 featured: false
 excerpt: Swiss Steak Marinara Style With Meatballs
