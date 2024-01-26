@@ -8,13 +8,7 @@ comments: true
 Thank you for reaching out to downloadfreerecipes. We value your feedback, questions, and suggestions. Whether you're looking for cooking advice, have a recipe request, or just want to say hello, we'd love to hear from you.
 
 <h2>Contact Us via email:</h2>
-Contact us at navneet.singh.recipes@gmail.com if you have any questions or suggestions.
-
-<h2>Email:</h2>
-If you prefer traditional email, you can reach us at [your@email.com]. We aim to respond to all emails within [mention your average response time, e.g., 24-48 hours].
-
-<h2>Business Inquiries:</h2>
-For business partnerships, sponsorships, or other collaboration opportunities, please contact us at [business@email.com].
+Contact us at navneet.singh.recipes@gmail.com if you have any questions or suggestions. We aim to respond to all emails within 24 hours
 
 <h2>Newsletter Subscription:</h2>
 Stay updated with our latest recipes, tips, and news by subscribing to our newsletter <a href="https://mailchi.mp/516b54c286a4/downloadfreerecipes" >FREE Newsletter</a>.
