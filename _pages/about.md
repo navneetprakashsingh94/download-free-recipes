@@ -1,35 +1,27 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About us
 permalink: /about
 comments: true
 ---
+Welcome to downloadfreerecipes.com, where passion for cooking meets creativity in the kitchen. We believe that great meals bring people together, and our mission is to inspire and empower you to create memorable dining experiences.
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+<h2>Our Story:</h2>
+Downloadfreerecipes was born out of a shared love for delicious, homemade food. It started as a culinary revelation which gained traction overtime. Our team of culinary enthusiasts, food bloggers, and home chefs are dedicated to bringing you a diverse collection of recipes that cater to various tastes, skill levels, and dietary preferences.
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<h2>What Sets Us Apart:</h2>
+At downloadfreerecipes, we strive for excellence in every recipe we share. What sets us apart is our commitment to provide recipes with detailed steps and ingredents with easy to find ingredients. Whether you're a seasoned chef or a beginner in the kitchen, our goal is to make your cooking experience enjoyable and rewarding.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<h2>Our Values:</h2>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<b>Quality:</b> We believe in the power of quality ingredients and well-crafted recipes to elevate every meal.
+<b>Community:</b> Join our growing community of food enthusiasts, share your culinary adventures, and connect with like-minded individuals who appreciate the joy of cooking.
+<b>Accessibility:</b> Our recipes are designed to be accessible to everyone, regardless of their level of expertise or available time. We want to make cooking an enjoyable part of your daily life.
 
-<h4>Questions or bug reports?</h4>
+<h2>Get Involved:</h2>
+We love hearing from our community! Share your favorite recipes with us, ask questions, or suggest ideas for future content. 
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<h2>Contact Us:</h2>
+Have questions, suggestions, or just want to say hello? We'd love to hear from you! Reach out to us at navneet.singh.recipes@gmail.com.
 
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+Thank you for being a part of the downloadfreerecipes community. Happy cooking!
