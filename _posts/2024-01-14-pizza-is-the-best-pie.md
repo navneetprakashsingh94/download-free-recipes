@@ -26,3 +26,10 @@ One of the key factors that make pizza the delicious pie is its remarkable adapt
 
 **My personal opinion on Pizza:**
 In conclusion, pizza's status as the delicious pie is grounded in its irresistible flavor profile, cultural significance, and remarkable adaptability. It has evolved from a Neapolitan street food to a global culinary phenomenon, captivating the hearts and taste buds of people worldwide. As a symbol of shared joy, a canvas for creativity, and a testament to the power of cultural exchange, pizza stands as an enduring testament to the artistry of food. With each cheesy, flavorful bite, pizza continues to weave a delicious tale that transcends time and borders.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Legend has it that the Pizza Margherita was created in 1889 by Neapolitan pizza maker Raffaele Esposito to honor Queen Margherita of Savoy. The pizza's red tomatoes, white mozzarella cheese, and green basil leaves were meant to represent the colors of the Italian flag.</p>
+  </div>
+</div>

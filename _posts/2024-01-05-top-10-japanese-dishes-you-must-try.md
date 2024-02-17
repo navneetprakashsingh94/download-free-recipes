@@ -46,3 +46,11 @@ totalTimeIso: PT2M
     Japan is famous for its green tea, and Matcha is a finely ground powdered green tea used in various desserts. Matcha-flavored ice cream, cakes, and mochi are popular and delightful treats.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Sukiyaki and shabu-shabu are two popular Japanese hot pot dishes. Sukiyaki features thinly sliced beef cooked in a sweet soy sauce broth with vegetables and tofu, while shabu-shabu involves dipping thinly sliced meat and vegetables into a boiling broth at the table.</p>
+  </div>
+</div>

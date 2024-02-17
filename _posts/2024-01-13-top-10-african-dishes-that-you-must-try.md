@@ -45,3 +45,11 @@ totalTimeIso: PT2M
     Akara are deep-fried bean fritters made from black-eyed peas, onions, and spices. They are a popular breakfast or snack in West African countries.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">African cuisine has been influenced by colonization, trade, and migration over centuries. European colonization introduced new ingredients like tomatoes, potatoes, and chili peppers to African cuisine, while Indian and Arab traders brought spices and cooking techniques that have become integral to many African dishes.</p>
+  </div>
+</div>

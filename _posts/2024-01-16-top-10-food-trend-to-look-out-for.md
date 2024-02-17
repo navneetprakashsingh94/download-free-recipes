@@ -47,3 +47,10 @@ Here are ten food trends that are expected to make waves in the culinary world:
     DIY meal kits and innovative home cooking solutions are gaining popularity, allowing individuals to recreate restaurant-quality dishes at home. Look for meal kits featuring globally inspired cuisines and unique cooking techniques.
 
 Thanks for reading! Check out our other articles as well.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">The gut microbiome (found in stuff like yogurt, kinchi, kombucha, etc.) performs several essential functions, including aiding in digestion, synthesizing vitamins (such as vitamin K and certain B vitamins), metabolizing dietary fibers, supporting the immune system, and protecting against harmful pathogens.</p>
+  </div>
+</div>

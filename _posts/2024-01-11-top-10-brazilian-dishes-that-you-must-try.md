@@ -45,3 +45,11 @@ totalTimeIso: PT2M
     A popular street food from Bahia, Acarajé consists of deep-fried balls of black-eyed pea dough filled with a mixture of shrimp, vatapá, and caruru. It's a flavorful and satisfying snack.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Street food is an integral part of Brazilian culinary culture, with vendors selling a wide range of snacks and treats on the streets of cities and towns across the country. Popular street foods include pastel (deep-fried pastry filled with cheese, meat, or shrimp), coxinha (deep-fried chicken croquettes), and tapioca crepes filled with sweet or savory fillings.</p>
+  </div>
+</div>

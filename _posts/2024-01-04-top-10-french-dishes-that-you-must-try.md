@@ -45,3 +45,11 @@ totalTimeIso: PT2M
     A decadent dessert, Crème Brûlée features a creamy custard base topped with a layer of caramelized sugar. The contrast between the smooth custard and the crisp, caramelized topping is exquisite.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Auguste Escoffier, a legendary French chef of the late 19th and early 20th centuries, revolutionized French cuisine. He simplified and codified traditional cooking techniques, introduced the concept of the brigade system in professional kitchens, and popularized classic French dishes like Peach Melba and Pêche Melba.</p>
+  </div>
+</div>

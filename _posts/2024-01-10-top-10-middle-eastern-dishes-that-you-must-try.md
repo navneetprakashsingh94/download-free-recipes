@@ -46,3 +46,11 @@ totalTimeIso: PT2M
     A popular Middle Eastern dessert, Kunafa consists of thin noodle-like pastry soaked in sweet syrup and layered with nuts or cheese. It's often enjoyed during festive occasions.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Middle Eastern cuisine is known for its bold and aromatic flavors, often achieved through the use of spices and herbs such as cumin, coriander, turmeric, sumac, za'atar, and parsley. These spices add depth and complexity to dishes and are used in everything from savory stews to sweet desserts.</p>
+  </div>
+</div>

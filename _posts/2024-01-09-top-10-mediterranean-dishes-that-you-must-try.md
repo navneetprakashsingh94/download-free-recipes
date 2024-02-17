@@ -46,3 +46,11 @@ totalTimeIso: PT2M
     An Italian eggplant dish, Caponata is a sweet and savory medley of eggplant, tomatoes, olives, and capers, cooked in a sweet and tangy sauce made from vinegar and sugar.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">The Mediterranean diet is renowned for its health benefits and is associated with lower rates of heart disease, stroke, diabetes, and certain cancers. It emphasizes fruits, vegetables, whole grains, legumes, nuts, seeds, olive oil, and lean proteins like fish and poultry while limiting red meat and processed foods.</p>
+  </div>
+</div>

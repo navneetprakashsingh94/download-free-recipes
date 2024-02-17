@@ -46,3 +46,10 @@ totalTimeIso: PT2M
     A unique twist on traditional chocolate chip cookies, using chickpea flour as a base for a gluten-free and protein-packed treat.
 
 Thanks for reading! Check out our other articles as well.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text"> Chickpeas are nutrient-dense legumes, rich in protein, fiber, vitamins, and minerals. They are particularly high in folate, iron, phosphorus, and manganese. As a plant-based protein source, chickpeas are an excellent option for vegetarians and vegans.</p>
+  </div>
+</div>

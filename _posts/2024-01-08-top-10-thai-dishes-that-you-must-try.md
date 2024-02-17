@@ -45,3 +45,11 @@ totalTimeIso: PT2M
     A delicious Thai dessert, Mango Sticky Rice consists of sweet sticky rice topped with ripe mango slices and drizzled with coconut milk, creating a perfect blend of textures and flavors.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Thai curries are rich, aromatic, and full of flavor, often made with a base of coconut milk and curry paste. Green curry, red curry, and massaman curry are among the most popular varieties. Thai soups, such as tom yum and tom kha, are also well-known for their spicy and tangy flavors.</p>
+  </div>
+</div>

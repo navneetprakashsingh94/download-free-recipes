@@ -46,3 +46,10 @@ totalTimeIso: PT2M
     Thinly sliced beef stir-fried with broccoli and a savory sauce, served over brown rice or cauliflower rice for a protein-packed dinner option.
 
 Thanks for reading! Check out our other articles as well.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">The quality of a protein source is determined by its amino acid profile and digestibility. Animal proteins are generally considered higher quality than plant proteins because they contain all essential amino acids in the right proportions and are more easily digestible.</p>
+  </div>
+</div>

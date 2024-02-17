@@ -46,3 +46,11 @@ totalTimeIso: PT2M
     Tostadas are flat, crispy tortillas topped with various ingredients like refried beans, shredded meat, lettuce, salsa, and cheese. They are a crunchy and flavorful snack or meal.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Food plays a central role in Mexican festivals and celebrations, such as Dia de los Muertos (Day of the Dead), Cinco de Mayo, and Independence Day. Festive dishes like tamales, pozole, and mole are prepared to honor traditions and bring families and communities together.</p>
+  </div>
+</div>

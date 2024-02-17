@@ -46,3 +46,10 @@ Here are ten notable vegan revolutions in the food industry that have transforme
     The power of social media and vegan influencers has played a crucial role in spreading awareness about plant-based living. Online platforms have become a hub for sharing recipes, advocating for animal rights, and promoting the vegan lifestyle, influencing a broader audience to adopt plant-based choices.
 
 Thanks for reading! Check out our other articles as well.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">A well-planned vegan diet can provide all the essential nutrients the body needs, including protein, iron, calcium, vitamin D, vitamin B12, and omega-3 fatty acids. Plant-based foods are often rich in fiber, antioxidants, and phytonutrients, which promote overall health and well-being.</p>
+  </div>
+</div>

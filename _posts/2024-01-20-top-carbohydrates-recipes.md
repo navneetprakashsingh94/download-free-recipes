@@ -47,3 +47,10 @@ Carbohydrates are an essential source of energy, and here are ten delicious reci
     A whole grain wrap filled with lean turkey slices, hummus, leafy greens, and your favorite vegetables for a quick and wholesome lunch.
 
 Thanks for reading! Check out our other articles as well.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Carbohydrates are the body's primary source of energy. When consumed, carbohydrates are broken down into glucose, which is used by cells for energy production. Glucose not immediately needed for energy is stored in the liver and muscles as glycogen for later use.</p>
+  </div>
+</div>

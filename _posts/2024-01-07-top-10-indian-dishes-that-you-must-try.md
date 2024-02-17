@@ -45,3 +45,11 @@ totalTimeIso: PT2M
     A classic Indian dessert, Gulab Jamun consists of deep-fried milk dumplings soaked in a sugar syrup, resulting in sweet and syrupy indulgence.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">In many parts of India, tiffin refers to a light meal or snack typically eaten during mid-morning or mid-afternoon. Tiffin boxes, consisting of compartments for different dishes, are commonly used to transport and store tiffin meals, which may include items like samosas, sandwiches, and sweets.</p>
+  </div>
+</div>

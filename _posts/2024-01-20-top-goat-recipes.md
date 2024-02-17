@@ -46,3 +46,10 @@ totalTimeIso: PT2M
     A hearty and spicy soup made with goat trotters, simmered with aromatic spices and herbs, creating a nourishing and flavorful dish.
 
 Thanks for reading! Check out our other articles as well.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Goats have horizontal, rectangular pupils that provide them with a wide field of vision and excellent depth perception. This unique eye shape allows them to see almost 360 degrees around their body without moving their heads.</p>
+  </div>
+</div>

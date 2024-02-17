@@ -46,3 +46,10 @@ totalTimeIso: PT2M
     A calming and sweet dessert, featuring a scoop of vanilla ice cream or gelato topped with a shot of hot chamomile tea and drizzled with honey.
 
 Thanks for reading! Check out our other articles as well.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Tea originated in China thousands of years ago. According to legend, the Emperor Shen Nong discovered tea when tea leaves blew into his pot of boiling water. Today, China remains one of the largest producers of tea in the world.</p>
+  </div>
+</div>

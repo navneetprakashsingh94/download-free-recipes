@@ -45,3 +45,11 @@ totalTimeIso: PT2M
     A specialty of Shanghai, Xiao Long Bao are steamed dumplings filled with a mixture of broth and minced pork, creating a burst of flavorful soup when bitten into.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Chinese cuisine can be broadly categorized into eight regional culinary traditions: Cantonese, Sichuan, Hunan, Jiangsu, Zhejiang, Fujian, Anhui, and Shandong. Each region has its own distinctive flavors, ingredients, and cooking techniques.</p>
+  </div>
+</div>

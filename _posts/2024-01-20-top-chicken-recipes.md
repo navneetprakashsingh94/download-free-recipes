@@ -45,3 +45,10 @@ totalTimeIso: PT2M
     Sautéed chicken strips, bell peppers, and onions are seasoned with fajita spices, creating a flavorful filling for tacos or wraps.
 
 Thanks for reading! Check out our other articles as well.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Chickens have a complex system of vocalizations and body language to communicate with each other. They use different calls to alert each other of danger, announce the presence of food, and establish social hierarchies within the flock.</p>
+  </div>
+</div>

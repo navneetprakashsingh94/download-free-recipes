@@ -51,3 +51,11 @@ totalTimeIso: PT2M
     Tex-Mex cuisine, with its influence from Mexican flavors, features dishes like tacos, burritos, and nachos, which have become American favorites.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Native American tribes have made significant contributions to American cuisine, introducing ingredients like corn, squash, beans, wild game, and various herbs and spices. Many traditional Native American dishes, such as frybread, succotash, and pemmican, remain popular today.</p>
+  </div>
+</div>

@@ -31,3 +31,10 @@ Indian cuisine is celebrated for its bold and harmonious flavors, a testament to
 Spices of India are not just ingredients; they are storytellers, weaving narratives of a rich history, diverse culture, and culinary artistry. As we savor the vibrant flavors of Indian cuisine, we embark on a sensory journey that transcends time and borders. The magic of Indian spices lies not only in their ability to tantalize our taste buds but also in their power to connect us to the heart and soul of a nation that continues to enchant the world with its culinary treasures.
 
 Thanks for reading! Check out our other articles as well.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Spices like cinnamon, pepper, and cloves were highly prized in ancient times and were used as currency. They were among the commodities that fueled the spice trade routes between Asia, Europe, and Africa.</p>
+  </div>
+</div>

@@ -46,3 +46,10 @@ totalTimeIso: PT2M
     Fresh peaches baked with a sweet brown sugar and cinnamon topping, crowned with a buttery and golden cobbler crust.
 
 Thanks for reading! Check out our other articles as well.
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">The chocolate chip cookie, one of the most beloved desserts worldwide, was invented by Ruth Wakefield in the 1930s. She added chopped chocolate to her cookie dough, expecting it to melt and create chocolate cookies, but instead, the chocolate remained in chunks, giving rise to the iconic treat.</p>
+  </div>
+</div>

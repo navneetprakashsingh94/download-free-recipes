@@ -52,3 +52,11 @@ totalTimeIso: PT2M
     African cuisine varies widely across the continent, featuring diverse ingredients and flavors. Examples include Moroccan tagines, West African jollof rice, and South African bobotie.
 
 Thanks for reading! Check out our other articles as well.
+
+
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Wars and conflicts have often influenced cuisines. For example, the shortage of meat during World War II in Britain led to the popularization of dishes like spam fritters and Woolton pie, made with available ingredients like vegetables and rationed meat.</p>
+  </div>
+</div>
