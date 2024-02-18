@@ -4,7 +4,7 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group" style="cursor:pointer;" onclick="window.open('{{ site.baseurl }}{{ post.url }}');">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="{{ site.baseurl }}{{ post.url }}">
+            <a>
                 {% if post.image %}
 
                     {% if site.lazyimages == "enabled" %}
@@ -18,7 +18,7 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <a class="text-dark">{{ post.title }}</a>
             </h2>
             <!-- <span class="fa fa-star checked"></span>
             <span class="fa fa-star checked"></span>

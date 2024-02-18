@@ -4,7 +4,7 @@ title: "DownloadFreeRecipes.com | Download Free Recipes"
 description: "Delicious recipes within 20 minutes."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
+baseurl: 'https://www.downloadfreerecipes.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://mailchi.mp/516b54c286a4/downloadfreerecipes'
