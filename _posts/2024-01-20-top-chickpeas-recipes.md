@@ -14,6 +14,8 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+Chickpeas are rich in protein. A breif historical fact that I came across regarding chickpeas: Chickpeas (Cicer arietinum) are believed to have originated in the Middle East, particularly in the region known as the Fertile Crescent, which includes modern-day Turkey, Syria, Iraq, and Iran. Archaeological evidence suggests that chickpeas have been cultivated in this region for over 7,000 years, making them one of the earliest cultivated crops.Here is the list of my top 10 chickpeas dishes that I've tried. Let me whats your favourite chickpeas dish in the comments below.
+
 
 1. **Chickpea Curry (Chana Masala):**
    A classic Indian dish featuring chickpeas simmered in a flavorful blend of tomatoes, onions, and aromatic spices, served over rice or with naan.

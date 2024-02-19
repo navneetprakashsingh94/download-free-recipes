@@ -14,6 +14,7 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+Before we deep dive into the list. Did you know that buddist culture had a strong influence to Japanese cuisine? The introduction of Buddhism to Japan in the 6th century CE had a profound impact on Japanese cuisine. Buddhist monks promoted vegetarianism and the consumption of plant-based foods, leading to the development of shojin ryori, a traditional vegetarian cuisine that emphasizes simplicity, balance, and harmony. Today as well these principles hold true. Here is the list of my top 10 Japanese dishes that I've tried. Let me know in the comments below what do you think about this list and if I missed any.
 
 1. **Sushi (Nigiri, Sashimi, Maki):**
    Sushi is perhaps the most iconic Japanese dish. Nigiri features small rice balls topped with fresh fish, Sashimi is thinly sliced raw fish, and Maki involves rolled sushi with seaweed, rice, and various fillings.

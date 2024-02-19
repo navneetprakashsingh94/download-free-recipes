@@ -3,7 +3,7 @@ layout: post
 title: Top 10 American dishes that you must try
 date: 2024-01-12 08:40:07.838679
 last_modified_at: 2024-01-12 08:40:07.838679
-permalink: 2024-01-12-top-10-americal-dishes-that-you-must-try
+permalink: 2024-01-12-top-10-american-dishes-that-you-must-try
 image: assets\images\american-post-img.jpg
 image2: https://images.pexels.com/photos/1427581/pexels-photo-1427581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 featured: false
@@ -13,6 +13,8 @@ description: "Top 10 American dishes that you must try. Southern Fried Chicken, 
 totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
+
+American cusine is a rich tapestry of flavors, ingrdients and have enjoyed multiculture due to it's high influx of immigrants. High waves of immigration throughout American history have brought a diverse array of culinary traditions to the United States. Immigrant communities from Italy, Germany, Ireland, Greece, China, Mexico, and many other countries have introduced their own foods, ingredients, and cooking techniques, enriching the culinary landscape of the United States.Here is my top dishes that I've tried in the United States. Let me know what's your favourite dish and would you try it sometime in future:
 
 1. **Hamburgers and Hot Dogs:**
    Classic American fast food, burgers and hot dogs are often enjoyed at picnics, barbecues, and backyard gatherings.

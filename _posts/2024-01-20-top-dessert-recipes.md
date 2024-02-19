@@ -14,6 +14,7 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+Dessert is something everyone enjoys. Here is a quick historical fact that I came across regarding dessert: Desserts evolved in medieval Europe, where sugar became more widely available through trade with the Middle East. Sweetened dishes such as pastries, tarts, and custards became popular among the nobility and aristocracy, showcasing sugar's status as a luxury ingredient. Intersting, isn't it!? Here is the list of top 10 desserts that I've tasted. Let me know in the comments below if your favourite dish made it to the list:
 
 1. **Classic Chocolate Chip Cookies:**
    Soft and chewy cookies studded with chocolate chips, creating a timeless and comforting treat.

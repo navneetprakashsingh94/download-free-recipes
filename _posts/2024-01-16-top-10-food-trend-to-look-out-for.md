@@ -14,7 +14,7 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
-Here are ten food trends that are expected to make waves in the culinary world:
+Food trends have evolved over time, influenced by factors such as technological advancements, cultural shifts, economic changes, and health and dietary trends. A very common food trend is canned vegetables. In the early 19th century, the invention of canning technology revolutionized food preservation and distribution. Canned foods like fruits, vegetables, and meats became popular staples in many households, offering convenience and longer shelf life and today a lot of the food that I buy is canned food. Here is a list of current food trends that might be staple in the future. Let me know if I missed any food trend in the comments below:
 
 1. **Plant-Based Innovations:**
    The rise of plant-based eating continues, with an emphasis on innovative plant-based alternatives such as lab-grown meats, plant-based seafood, and dairy-free cheeses. Expect to see more creative and sustainable plant-based options on menus.

@@ -14,7 +14,7 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
-On my recent trip to Mangolia, I was given the option to either have my regular food or try the Mangolian cuisine. Here are a few of the dishes I tried, have a look, let me know in the comments below what's your favourite Mangolian dish. Here are a few dishes I tried:
+On my recent trip to Mangolia, I was given the option to either have my regular food or try the Mangolian cuisine. Here are a few of the dishes I tried, have a look, let me know in the comments below what's your favourite Mangolian dish. What I leanred from the Mangolian cusine is that it's deeply rooted in the nomadic lifestyle of the Mongolian people, who historically relied on animal husbandry and herding for sustenance. Traditional Mongolian diet consisted primarily of meat, dairy products, and staple grains. In the modern world, these dishes have evolved substantially. Here are a few dishes I tried:
 
 1. **Mongolian Beef**: Thinly sliced beef stir-fried with green onions, garlic, ginger, and a savory-sweet sauce made with soy sauce, hoisin sauce, and brown sugar.
 

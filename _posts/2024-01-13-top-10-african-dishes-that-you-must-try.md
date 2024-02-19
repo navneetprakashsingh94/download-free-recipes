@@ -14,6 +14,8 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+One of the most unique food culture can be found in the African food. It's incredibly diverse, with each region and ethnic group contributing its own unique flavors, ingredients, and cooking techniques. They use wide variety of grains, tubers, vegetables, fruits, legumes, nuts, and spices that have been cultivated and consumed by African communities for centuries. Here are a few dishes that I've tried, let me know in the comment section below about what you think about these dishes:
+
 1. **Jollof Rice (West Africa):**
    A popular West African dish, Jollof Rice is a one-pot rice dish cooked with tomatoes, onions, and a variety of spices. It often includes vegetables and can be paired with grilled or stewed meat.
 

@@ -14,6 +14,7 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+Middle eastern cusine has a diverse set of ingrdients reflecting the region's long history and culinary traditions. It is highly influenced by a variety of cultures and civilizations that have inhabited the region over millennia, including ancient Mesopotamia, Egypt, Persia, Greece, Rome, and the Ottoman Empire. As a result, Middle Eastern dishes often feature a blend of flavors and ingredients from different cultural traditions. Here are my favourite dishes that I came across from Middle eastern food. Let me know in the comments below about what you think:
 
 1. **Hummus:**
    A classic dip made from blended chickpeas, tahini, garlic, lemon juice, and olive oil. Hummus is often garnished with paprika and served with pita bread.

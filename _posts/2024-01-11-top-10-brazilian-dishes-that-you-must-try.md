@@ -14,6 +14,8 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+Did you know that Portuguese colonization of Brazil has had a significant influence on Brazilian cuisine. Portuguese immigrants introduced ingredients such as rice, beans, wheat, olive oil, and dairy products, which became staples of Brazilian cooking. Many traditional Brazilian dishes, such as feijoada (a hearty bean stew), bacalhau (salted cod), and pastéis (deep-fried pastries), have Portuguese roots. I found that fascinating. Let me know in the comments down below regarding what's your favourite Brazilian dish? Here are my favourite Brazilian dishes that I've come across in my life:
+
 1. **Feijoada:**
    Considered the national dish, Feijoada is a hearty black bean stew made with pork, sausages, and beef. It's typically served with rice, collard greens, and orange slices.
 

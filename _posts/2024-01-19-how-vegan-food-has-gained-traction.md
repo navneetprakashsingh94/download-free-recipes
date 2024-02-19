@@ -13,7 +13,7 @@ description: "Why is vegan food so popular? I bet you use it in your diet withou
 totalTimeIso: PT2M
 ---
 
-Here are ten notable vegan revolutions in the food industry that have transformed the way we eat:
+Before we deep dive into why vegan food is so polular, let's see a brief history about vegan: The term "vegan" was coined in 1944 by Donald Watson, founder of the Vegan Society, to describe individuals who abstain from all animal products, including meat, dairy, eggs, and honey. Veganism emerged as a distinct dietary and ethical philosophy, separate from vegetarianism, with a focus on avoiding exploitation and cruelty to animals. Here are ten notable vegan revolutions in the food industry that have transformed the way we eat. Let me know in the comments below if I missed out any notible mentiones:
 
 1. **Plant-Based Meats:**
    The emergence of realistic and flavorful plant-based meat alternatives has revolutionized vegan dining. Brands like Beyond Meat and Impossible Foods have created plant-based burgers, sausages, and other meat substitutes that closely mimic the taste and texture of traditional meat.

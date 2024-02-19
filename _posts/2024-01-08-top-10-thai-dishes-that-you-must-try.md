@@ -14,6 +14,8 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+Before we deep dive into my top 10 Thai dishes. Let's comprehend the history of the cuisine. Thai cuisine has ancient origins that date back thousands of years. The early inhabitants of the region, including the indigenous peoples of Southeast Asia and migrants from neighboring countries, developed culinary traditions based on local ingredients such as rice, fish, herbs, and tropical fruits. Today Thai food is popular across the globe. Here are the few thai dishes that I came across. Let me know in the comments below if I missed your favourite dish:
+
 1. **Pad Thai:**
    A globally popular stir-fried noodle dish, Pad Thai features thin rice noodles, stir-fried with shrimp, tofu, or chicken, and flavored with tamarind paste, fish sauce, peanuts, and lime.
 

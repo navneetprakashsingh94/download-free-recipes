@@ -14,6 +14,7 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+Tea has a rich history. Before we dive into the list, here's a quick fact I came across regarding tea recently: In the 16th century, European explorers such as the Portuguese and Dutch encountered tea during their travels to Asia. Tea soon became popular among the European elite, leading to the establishment of global tea trade routes. The British East India Company played a significant role in the expansion of tea cultivation in India and Ceylon (now Sri Lanka) to meet the growing demand in Europe. Here is a list of my favourite tea. Let me know if your favourite tea made it to the list:
 
 1. **Chai Latte:**
    A fragrant and spiced tea latte made with black tea, aromatic spices like cinnamon and cardamom, and steamed milk for a cozy and flavorful drink.

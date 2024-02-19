@@ -14,6 +14,8 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+French cuisine is elegant, sophisticated and highly rich in flavor. To all my readers, if you haven't tried it out, I'll recommend you to try it out once. Brief history about it. It has its roots in medieval culinary traditions, which were heavily influenced by the availability of ingredients, religious customs, and social hierarchies. During this time, French cuisine relied on simple, rustic ingredients such as grains, legumes, vegetables, and meats, often flavored with herbs and spices. Here is the list of top 10 French dishes that I've tried. Let me know in the comments below about what you think about these dishes:
+
 1. **Coq au Vin:**
    A classic French dish, Coq au Vin features chicken braised in red wine, mushrooms, onions, bacon, and aromatic herbs. The slow-cooking process results in tender, flavorful meat.
 

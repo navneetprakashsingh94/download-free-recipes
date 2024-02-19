@@ -14,6 +14,8 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+When it comes to great source of protein, everyone thinks of chicken. Here is a quick historical facts about chicken: Chickens were revered and utilized in various ways by ancient cultures around the world. In ancient Egypt, chickens were associated with the sun god Ra and were often depicted in religious artwork. In ancient Greece and Rome, chickens were used in divination rituals called "ornithomancy," where their behavior and movements were interpreted as omens. Intersting! Let me know in the comments below what chicken dish that I should try which is not in the following list. Here is the list of my top 10 chicken dishes:
+
 1. **Classic Roast Chicken:**
    A timeless favorite, roast chicken is seasoned with herbs and roasted to perfection, resulting in tender and flavorful meat.
 

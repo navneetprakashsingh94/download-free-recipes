@@ -14,7 +14,7 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
-Carbohydrates are an essential source of energy, and here are ten delicious recipes that incorporate healthy and wholesome carbs:
+Carbohydrates are powerhouse for life forms. Brief history of carbohydrates: Carbohydrates have been a fundamental part of the human diet since the advent of agriculture around 10,000 years ago. Early farming societies cultivated carbohydrate-rich crops such as grains (e.g., wheat, rice, maize), tubers (e.g., potatoes, sweet potatoes), and legumes (e.g., beans, lentils), which provided energy for sustenance. What's your favourite carbohydrate dish? Let me know in the comments below. Here are ten delicious recipes that incorporate healthy and wholesome carbs that I've tried so far:
 
 1. **Spaghetti Bolognese:**
    Classic spaghetti served with a rich and hearty Bolognese sauce made with ground meat, tomatoes, and aromatic herbs, providing a satisfying meal.

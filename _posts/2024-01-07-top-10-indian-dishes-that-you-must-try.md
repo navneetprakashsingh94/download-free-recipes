@@ -14,6 +14,8 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+This has to be one of my favourite cuisines. Indian cuisine has ancient origins dating back thousands of years. The earliest Indian civilization, the Indus Valley Civilization (circa 3300–1300 BCE), relied on agriculture and traded spices and other foodstuffs with neighboring regions. Archaeological evidence suggests the use of spices like cumin, coriander, and mustard seeds in ancient Indian cooking. It's rich culture has spawned a huge variety of dishes that are extremely delicious. Here is the list of my favourite Indian dishes. Let me know in the comments below, what's your favourite Indian dish:
+
 1. **Butter Chicken (Murgh Makhani):**
    Succulent pieces of chicken cooked in a creamy tomato-based sauce with a blend of aromatic spices. It's often served with naan or rice.
 

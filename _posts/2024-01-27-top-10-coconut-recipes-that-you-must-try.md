@@ -15,7 +15,7 @@ totalTimeIso: PT2M
 {% include disclaimer.html %}
 
 
-Here is the list of my top 10 coconut recipies. Let me know in the comments below what's your favourite coconut recipe. :
+ Coconuts are a vital source of income for millions of people worldwide, particularly in developing countries where coconut farming provides livelihoods for small-scale farmers and their families. On my recent trip to south India, I came across this beautiful place called Kerela. Over there I saw a lot of applications of coconut. Here are a few dishes I came across. Let me know in the comments below what's your favourite coconut recipe. :
 
 1. **Coconut Curry**: Coconut milk is often used as a base for creamy and flavorful curries in Southeast Asian cuisines, such as Thai, Indian, and Malaysian. Coconut curry can be made with a variety of proteins like chicken, shrimp, or tofu, and vegetables, along with aromatic spices and herbs.
 

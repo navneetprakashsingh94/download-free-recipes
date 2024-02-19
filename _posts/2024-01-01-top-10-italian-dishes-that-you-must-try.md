@@ -14,12 +14,7 @@ totalTimeIso: PT2M
 
 {% include disclaimer.html %}
 
-<div class="card" style="margin-bottom:1rem">
-  <div class="card-body">
-    <h5 class="card-title">Did you know?</h5>
-    <p class="card-text">Italy is famous for its coffee culture. The espresso machine was invented in Italy in 1884 by Angelo Moriondo. Italians have strict rules about coffee drinking, such as not ordering milky coffee after 11 am and never ordering a cappuccino after a meal.</p>
-  </div>
-</div>
+Italian cuisine is remowed worldwode for it's simplicity, freshness and bold flavors. One of my favourite learnings is that Italian aristocrats and nobility played a significant role in shaping Italian cuisine during the Renaissance period. They employed chefs and cooks to create elaborate banquets and feasts, showcasing their wealth and status through food. Italian nobility also contributed to the refinement of Italian cooking techniques and the development of regional specialties. Here is the list of top 10 Italian dishes. Let me know in the comments below about what you think about Itialian cusines and what's your favourite Italian food. Here is my list:
 
 
 1. **Spaghetti Bolognese (Spaghetti alla Bolognese)**
@@ -54,3 +49,9 @@ A hearty and nutritious vegetable soup, Minestrone is made with a variety of sea
 
 Thanks for reading! Check out our other articles as well
 
+<div class="card" style="margin-bottom:1rem">
+  <div class="card-body">
+    <h5 class="card-title">Did you know?</h5>
+    <p class="card-text">Italy is famous for its coffee culture. The espresso machine was invented in Italy in 1884 by Angelo Moriondo. Italians have strict rules about coffee drinking, such as not ordering milky coffee after 11 am and never ordering a cappuccino after a meal.</p>
+  </div>
+</div>

@@ -14,6 +14,7 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+Mexican food is one of the most delicious cuisines that I've tried. That lead me to the path of knowing what's the history of the cusisine. It has deep roots in the culinary traditions of ancient civilizations such as the Maya, Aztec, and Olmec. These cultures cultivated and consumed a wide variety of indigenous ingredients, including maize (corn), beans, squash, tomatoes, chilies, avocados, and chocolate. Today in the modern world, it provided a huge variety of delicious food that you have to try. Here is the list of top 10 Mexican dishes that you must try. Let me know in the comments below if my list is accurate or any dish that I should try:
 
 1. **Tacos:**
    A quintessential Mexican street food, tacos consist of soft or crispy tortillas filled with a variety of ingredients such as seasoned meat (beef, pork, chicken), salsa, onions, cilantro, and lime.

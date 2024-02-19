@@ -14,6 +14,7 @@ totalTimeIso: PT2M
 ---
 {% include disclaimer.html %}
 
+It's incredible fascinating how various revolution have influenced different cuisines in the world. One of the example is the industrial revolution in the 18th and 19th centuries transformed food production, distribution, and consumption. Advances in technology, transportation, and refrigeration enabled the mass production and global distribution of food, leading to the emergence of processed foods, convenience foods, and fast food culture. The rise of urbanization and modern lifestyles also influenced eating habits and culinary preferences. Here is a list of few cuisines that I've tried. Let me know in the comments below regarding what's your faviourite cuisine.
 
 1. **Italian Cuisine:**
    Known for its emphasis on fresh, high-quality ingredients, Italian cuisine features pasta, olive oil, tomatoes, and a variety of cheeses. Dishes like pasta, pizza, and risotto are staples.
